@@ -23,11 +23,10 @@ This form was added to make it more simplistic to add your quest entries with th
 
 - First and foremost each Zone that a Powerstone is in is Indexed from 0 to 9 and listed as 1-10.
 - This form is index based! So Powerstone 1 is PowerStone Index 0.
-- You will need at least one DiscoverZone Entry for the button to appear on the EditDiscoveryZone Forms.
+- This is the **PowerStone** Button located on the MainForm.
 - Generate Button shows your the Entry before Applying it.
 - The Apply button will not show unless Generate button is clicked.
 - Apply Button will replace globalGamplaySetup Property with the updated Calculations.
-- Once Apply Button Clicked will Close both EditDiscoveryZone Form and QuestForm.
 
 # Source
 
