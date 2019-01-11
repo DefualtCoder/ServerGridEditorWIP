@@ -1,9 +1,8 @@
 # ServerGridEditorWIP
 
-This is  Grapeshot Games ServerGridEditor. All rights belong to them!
+This is Grapeshot Games ServerGridEditor. All rights belong to them!
 
 The Official Repository can be found at [GrapeshotGames/ServerGridEditor.](https://github.com/GrapeshotGames/ServerGridEditor)
-
 
 
 ### Changes Include:
@@ -35,3 +34,7 @@ I will Provide the source of this PR to any who ask. I will not push this to the
 If you have any questions or found any issues, please ask/report in the issues section.
 
 **_~Default_**
+
+### Licensing/Copyright Information
+
+Grapeshot Games License information can be found here: [Licensing MIT](https://github.com/GrapeshotGames/ServerGridEditor/blob/master/LICENSE)
