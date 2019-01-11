@@ -12,7 +12,7 @@ The Official Repository can be found at [GrapeshotGames/ServerGridEditor.](https
 * Form scrollbars where needed.
 * Fixed ToolStripMenu Items
 * Various Form Fixes
-* Added Quest Form to EditDiscoveryZones Menu
+* Added Quest Form to MainForm as PowerSton Button.
 * Added Autopopulate and Save to ServerGrid.json Quest Entries.
 * Added Default Grid 1x1 at 1400000 with UTC on at 0.0 upon creation of new project
 
