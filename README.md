@@ -28,13 +28,13 @@ This form was added to make it more simplistic to add your quest entries with th
 - Apply Button will replace globalGamplaySetup Property with the updated Calculations.
 
 ##### Current Form.
-![Current Form Layout](https://imgur.com/mQP2GBi)
+![Current Form Layout](https://i.imgur.com/mQP2GBi.png)
 
 ##### Can generate zero values for Powerstone you do not have on map.
-![Generate Button Clicked](https://imgur.com/A96W4iz)
+![Generate Button Clicked](https://i.imgur.com/A96W4iz.png)
 
 ##### Compared with 15x15 Official JSon property.
-![After Apply Button Clicked and Project Saved](https://imgur.com/ZGsxuTm)
+![After Apply Button Clicked and Project Saved](https://i.imgur.com/ZGsxuTm.png)
 
 
 # Source
