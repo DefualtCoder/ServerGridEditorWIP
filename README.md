@@ -27,6 +27,19 @@ This form was added to make it more simplistic to add your quest entries with th
 - The Apply button will not show unless Generate button is clicked.
 - Apply Button will replace globalGamplaySetup Property with the updated Calculations.
 
+##### Current Form.
+![Current Form Layout]
+(https://imgur.com/mQP2GBi)
+
+##### Can generate zero values for Powerstone you do not have on map.
+![Generate Button Clicked]
+(https://imgur.com/A96W4iz)
+
+##### Compared with 15x15 Official JSon property.
+![After Apply Button Clicked and Project Saved]
+(https://imgur.com/ZGsxuTm)
+
+
 # Source
 
 I will Provide the source of this PR to any who ask. I will not push this to the Original ServerGridEditor Repo!
