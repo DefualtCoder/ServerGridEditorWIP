@@ -39,7 +39,7 @@ This form was added to make it more simplistic to add your quest entries with th
 
 # Source
 
-I will Provide the source of this PR to any who ask. I will not push this to the Original ServerGridEditor Repo!
+The source of this PR is now available to all. As of 28 Jan 2019, I have pushed this PR to the Original ServerGridEditor Repo!
 
 If you have any questions or found any issues, please ask/report in the issues section.
 
